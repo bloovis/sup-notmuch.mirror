@@ -17,7 +17,8 @@ ruby version 2.5.1p57, and notmuch version 0.26.
 * Linux Mint 21 and Ubuntu 22.04, with ruby version 3.0.2p107 and notmuch version 0.35.
 
 I have ported Sup-notmuch to Crystal, and am now using that full-time instead of
-sup-notmuch; see the `csup` project ([source](https://www.bloovis.com/cgit/csup/), [github mirror](https://github.com/bloovis/csup)).
+sup-notmuch; see the `csup` project ([source](https://www.bloovis.com/fossil/home/marka/fossils/csup/home),
+[github mirror](https://github.com/bloovis/csup.mirror)).
 
 ## Sup User's Guide
 
