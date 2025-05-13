@@ -28,15 +28,6 @@ ignore anything related to Xapian or installation of the old sup.
 
 ## Installation
 
-To use sup-notmuch (Sup with notmuch support), you must checkout and use the `notmuch` branch
-of the [sup-notmuch git repository](https://www.bloovis.com/cgit/sup-notmuch/).
-
-To clone the repository and switch to the `notmuch` branch:
-
-    git clone https://bionic.bloovis.com/cgit/sup-notmuch
-    cd sup-notmuch
-    git checkout notmuch
-
 Sup depends on number of gems.  Here is a partial list:
 
 * optimist
