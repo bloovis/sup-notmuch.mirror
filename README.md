@@ -31,7 +31,7 @@ ignore anything related to Xapian or installation of the old sup.
 To clone this repository:
 
 ```
-fossil clone https://chiselapp.com/user/bloovis/repository/sup-notmuch sup-notmuch.fossil
+fossil clone https://www.bloovis.com/fossil/home/marka/fossils/sup-notmuch
 ```
 
 Sup depends on number of gems.  Here is a partial list:
